@@ -1,0 +1,22 @@
+:root{
+    --cor-fonte: deeppink;
+    --font: 40px
+
+}
+
+
+p { 
+    font-size: var(--font);
+    color:var(--cor-fonte);
+
+}
+h2{font-size: var(--font)
+    color var(--cor-fonte)}
+h3{font-size: var(--font)
+    color var(--cor-fonte)}
+h4{font-size: var(--font)
+    color var(--cor-fonte)}
+h5{font-size: var(--font)
+    color var(--cor-fonte)}
+h6{font-size: var(--font)
+    color var(--cor-fonte)}
